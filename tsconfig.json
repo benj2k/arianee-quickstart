@@ -1,0 +1,24 @@
+{
+  "name": "Quickstart Arianee",
+  "compilerOptions": {
+    "emitDecoratorMetadata": true,
+    "module": "commonjs",
+    "noImplicitReturns": true,
+    "noUnusedLocals": false,
+    "noImplicitAny": false,
+    "outDir": "lib",
+    "rootDir":"src",
+    "sourceMap": true,
+    "strict": true,
+    "target": "es2019",
+    "resolveJsonModule": true,
+    "experimentalDecorators": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "strictPropertyInitialization": false
+  },
+  "compileOnSave": true,
+  "include": [
+    "src"
+  ]
+}

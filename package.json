@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "build:watch": "tsc --watch",
+    "start": "node ./lib/index.js",
+    "start:watch": "nodemon ./lib/index.js"
+  },
+  "dependencies": {
+    "@arianee/arianeejs": "^1.107.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.1.3"
+  }
+}
